@@ -1,0 +1,11 @@
+{
+  "org": "alex",
+  "repo": "rust-asn1",
+  "versions": [
+    {
+      "commit": "3abb539ddb67a9008050a17ca16eb65a5ad3da62",
+      "tag": "0.24.1",
+      "parsed_at": "2026-11-22T05:28:16.487340+00:00"
+    }
+  ]
+}
